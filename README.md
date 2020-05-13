@@ -12,4 +12,4 @@
 - 하지만 정작 매셥 9기는 2명 밖에 없으니`의도한 건 아닌데 왜 고인물 모임이 되었지`, 참여하고 싶으신 분들은 부담없이 연락주세욥 :)
 
 ### Member
-- [한태웅](), [조현우](https://github.com/jo-bata), [김범준](https://github.com/omjoonkim), [김주희](https://github.com/caution-dev)
+- [한태웅](https://github.com/gksxodnd007), [조현우](https://github.com/jo-bata), [김범준](https://github.com/omjoonkim), [김주희](https://github.com/caution-dev)
