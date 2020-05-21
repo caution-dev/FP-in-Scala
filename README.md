@@ -1,4 +1,4 @@
-# FF-in-Scala
+# FP-in-Scala
 
 [스칼라로 배우는 함수형 프로그래밍](https://www.manning.com/books/functional-programming-in-scala?query=functional%20prograaming) 스터디 레포입니다.
 
